@@ -27,8 +27,15 @@ url: "https://zhujohn9604.github.io" # the base hostname & protocol for your sit
 twitter_username: akagami9604
 github_username:  zhujohn9604
 
+# Fields minima uses, but are not defaulted with jekyll new command.
+author: ZHU Chen
+copyright: "ZHU Chen"
+linkedin_username: chen-zhu-0304251b2
+googlescholar_username: R2VUf7YAAAAJ
+
+
 # Build settings
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
 
