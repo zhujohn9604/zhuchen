@@ -21,7 +21,7 @@
 title: ZHU CHEN'S DIARY
 email: zhuchen.uic@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my blog site.
+ Statistics, Programming, Mathematics, and a big fan of science.
 baseurl: "/zhuchen" # the subpath of your site, e.g. /blog
 url: "https://zhujohn9604.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: akagami9604
