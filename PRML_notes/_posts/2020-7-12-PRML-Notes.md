@@ -1,5 +1,6 @@
 ---
 layout: post
+mathjax: true
 title:  "The Dirichlet distribution"
 date:   2020-07-12 14:36:24 +0900
 category: PRML
